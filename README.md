@@ -2,6 +2,6 @@
 
 my fav config and plugins are here!
 
-download and extract to $HOME directory.
+download and extract to <$HOME> directory.
 
-I hope so was useful for everyone who wants :)
+I hope so useful for everyone who uses vim as an editor :)
